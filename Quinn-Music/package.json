@@ -1,0 +1,14 @@
+{
+  "name": "quinn-music",
+  "version": "2.0.0",
+  "description": "discord, muisc, bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "help"
+  },
+  "keywords": [
+    "bot"
+  ],
+  "author": "ExothDE",
+  "license": "ISC"
+}
